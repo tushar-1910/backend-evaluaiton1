@@ -1,0 +1,27 @@
+{
+  "name": "backend-evaluaiton1",
+  "version": "1.0.0",
+  "description": "1.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushar-1910/backend-evaluaiton1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushar-1910/backend-evaluaiton1/issues"
+  },
+  "homepage": "https://github.com/tushar-1910/backend-evaluaiton1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dns": "^0.2.2",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.4.4"
+  }
+}
